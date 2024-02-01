@@ -1,9 +1,9 @@
 <VAST version="3.0">
 <Ad>
 <InLine>
-<AdSystem>Stickearn</AdSystem>
-<AdTitle>Stickearn</AdTitle>
-<Description>Stickearn15s</Description>
+<AdSystem>Rubicon</AdSystem>
+<AdTitle>Rubicon</AdTitle>
+<Description>Rubicon15s</Description>
 <Impression>
 </Impression>
 <Creatives>
@@ -26,7 +26,7 @@
 </TrackingEvents>
 <VideoClicks>
 <ClickThrough>
-<![CDATA[ https://my.telkomsel.com/ ]]>
+<![CDATA[ https://www.magnite.com/ ]]>
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
