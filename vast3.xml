@@ -9,7 +9,7 @@
 <Creatives>
 <Creative sequence="1">
 <Linear skipoffset="00:00:05">
-<Duration>00:00:30</Duration>
+<Duration>00:00:29</Duration>
 <TrackingEvents>
 <Tracking event="start">
 </Tracking>
@@ -26,12 +26,12 @@
 </TrackingEvents>
 <VideoClicks>
 <ClickThrough>
-<![CDATA[ https://www.magnite.com/ ]]>
+<![CDATA[ https://tadex.id/ ]]>
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile bitrate="766" delivery="progressive" height="288" type="video/mp4" width="1440">
-<![CDATA[ https://raw.githack.com/dikirisnandar/vastag_test/43118ade38b243022bb0c4abe8427a28fc6e5a7f/rubicon.mp4 ]]>
+<MediaFile bitrate="766" delivery="progressive" height="480" type="video/mp4" width="848">
+<![CDATA[ https://raw.githack.com/dikirisnandar/vastag_test/5163549410a80cec6e8561c4eab009e1db7e9743/tadex.mp4 ]]>
 </MediaFile>
 </MediaFiles>
 </Linear>
