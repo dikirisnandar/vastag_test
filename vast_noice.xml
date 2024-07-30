@@ -1,0 +1,43 @@
+<VAST version="3.0">
+<Ad>
+<InLine>
+<AdSystem>Rubicon</AdSystem>
+<AdTitle>Rubicon</AdTitle>
+<Description>Rubicon30s</Description>
+<Impression>
+</Impression>
+<Creatives>
+<Creative sequence="1">
+<Linear skipoffset="00:00:05">
+<Duration>00:00:29</Duration>
+<TrackingEvents>
+<Tracking event="start">
+</Tracking>
+<Tracking event="firstQuartile">
+</Tracking>
+<Tracking event="midpoint">
+</Tracking>
+<Tracking event="thirdQuartile">
+</Tracking>
+<Tracking event="complete">
+</Tracking>
+<Tracking event="skip">
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://tadex.id/ ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile bitrate="766" delivery="progressive" height="480" type="video/mp4" width="848">
+<![CDATA[ https://Testing-vast-magnite.s3.us-west-004.backblazeb2.com/%5BADS%5D+Ruang+28+-+Episode+112+(Indah+G)+(1)+(2).mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions/>
+</InLine>
+</Ad>
+</VAST>
