@@ -1,0 +1,43 @@
+<VAST version="3.0">
+<Ad>
+<InLine>
+<AdSystem>Rubicon</AdSystem>
+<AdTitle>Rubicon</AdTitle>
+<Description>Rubicon30s</Description>
+<Impression>
+</Impression>
+<Creatives>
+<Creative sequence="1">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="start">
+</Tracking>
+<Tracking event="firstQuartile">
+</Tracking>
+<Tracking event="midpoint">
+</Tracking>
+<Tracking event="thirdQuartile">
+</Tracking>
+<Tracking event="complete">
+</Tracking>
+<Tracking event="skip">
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://amg.id/ ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile bitrate="2000" delivery="progressive" height="1080" type="video/mp4" width="1920">
+<![CDATA[https://cdn.amg.id/www/assets/b592cdfd59e9639f6099185219ffdf04.mp4]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions/>
+</InLine>
+</Ad>
+</VAST>
