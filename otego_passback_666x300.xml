@@ -1,0 +1,43 @@
+<VAST version="3.0">
+<Ad>
+<InLine>
+<AdSystem>Rubicon</AdSystem>
+<AdTitle>Rubicon</AdTitle>
+<Description>Rubicon15s</Description>
+<Impression>
+</Impression>
+<Creatives>
+<Creative sequence="1">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="start">
+</Tracking>
+<Tracking event="firstQuartile">
+</Tracking>
+<Tracking event="midpoint">
+</Tracking>
+<Tracking event="thirdQuartile">
+</Tracking>
+<Tracking event="complete">
+</Tracking>
+<Tracking event="skip">
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://https://otegomedia.com/ ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile bitrate="2000" delivery="progressive" height="666" type="video/mp4" width="300">
+<![CDATA[https://raw.githack.com/dikirisnandar/vastag_test/392f8aeea74c661ecaf1ddeca715012fc37842d6/otego_666x300.mp4]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions/>
+</InLine>
+</Ad>
+</VAST>
